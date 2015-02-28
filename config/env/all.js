@@ -2,7 +2,7 @@
 
 module.exports = {
 	app: {
-		title: 'shippable-mean',
+		title: 'seajay-math',
 		description: 'Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js',
 		keywords: 'MongoDB, Express, AngularJS, Node.js'
 	},

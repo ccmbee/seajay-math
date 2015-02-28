@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/shippable-mean-test',
+	db: 'mongodb://localhost/seajay-math-test',
 	port: 3001,
 	app: {
-		title: 'shippable-mean - Test Environment'
+		title: 'seajay-math - Test Environment'
 	},
 	facebook: {
 		clientID: process.env.FACEBOOK_ID || 'APP_ID',

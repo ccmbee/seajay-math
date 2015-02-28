@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/shippable-mean-dev',
+	db: 'mongodb://localhost/seajay-math-dev',
 	app: {
-		title: 'shippable-mean - Development Environment'
+		title: 'seajay-math - Development Environment'
 	},
 	facebook: {
 		clientID: process.env.FACEBOOK_ID || 'APP_ID',
